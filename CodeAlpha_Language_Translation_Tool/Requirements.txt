@@ -1,0 +1,5 @@
+requests==2.32.4
+deep-translator
+gTTS
+httpx>=0.28.1,<1.0.0
+decorator==4.4.2

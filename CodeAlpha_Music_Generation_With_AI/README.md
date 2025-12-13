@@ -29,17 +29,3 @@ This project fulfills **Task 3: Music Generation with AI**, with the following g
 
 ---
 
-## 📁 Project Structure
-
-```text
-.
-├── Music_Generation_With_AI.ipynb
-├── requirements.txt
-├── token_to_int.json
-├── int_to_token.json
-├── best_music_model.h5
-├── generated.mid
-├── generated.wav
-├── generated.mp3
-└── environment_versions.txt
-
